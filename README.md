@@ -1,5 +1,5 @@
 # BigCityWeatherApp
- Weather Application of All location in the world with open wather API 
+ Weather Application of All location in the world with open weather API 
 
 ## Motivation
 This is a project of my learning record for android beginner final submission at [Dicoding](https://www.dicoding.com/academies/51)
